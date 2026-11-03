@@ -1,8 +1,11 @@
 # Paid Time Off (PTO) Policy
 
+**Company:** Acme Technologies (fictional)
 **Document ID:** HR-PTO-001
+**Version:** 1.0
+**Owner:** Human Resources
 **Effective Date:** January 1, 2026
-**Applies To:** All full-time employees
+**Applies To:** Full-time and part-time employees (part-time accrual is pro-rated)
 
 ## 1. Accrual
 

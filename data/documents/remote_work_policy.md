@@ -1,6 +1,9 @@
 # Remote Work Policy
 
+**Company:** Acme Technologies (fictional)
 **Document ID:** HR-RW-002
+**Version:** 1.0
+**Owner:** Human Resources
 **Effective Date:** March 1, 2026
 **Applies To:** All employees classified as remote-eligible
 

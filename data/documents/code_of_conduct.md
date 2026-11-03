@@ -1,6 +1,9 @@
 # Code of Conduct
 
+**Company:** Acme Technologies (fictional)
 **Document ID:** HR-COC-004
+**Version:** 1.0
+**Owner:** Human Resources
 **Effective Date:** January 1, 2026
 **Applies To:** All employees, contractors, and officers
 

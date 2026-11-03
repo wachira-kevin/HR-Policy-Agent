@@ -1,12 +1,15 @@
 # Parental Leave Policy
 
+**Company:** Acme Technologies (fictional)
 **Document ID:** HR-PL-005
+**Version:** 1.0
+**Owner:** Human Resources
 **Effective Date:** January 1, 2026
-**Applies To:** All full-time employees who have completed 90 days of employment
+**Applies To:** Full-time employees and part-time employees working 20+ hours per week, after 90 days of continuous employment
 
 ## 1. Eligibility
 
-Full-time employees who have completed at least 90 days of continuous employment are eligible for paid parental leave following the birth, adoption, or foster placement of a child. Part-time employees working 20+ hours per week are eligible on a pro-rated basis.
+Full-time employees who have completed at least 90 days of continuous employment are eligible for paid parental leave following the birth, adoption, or foster placement of a child. Part-time employees working 20+ hours per week are eligible on a pro-rated basis after the same 90 days of continuous employment.
 
 ## 2. Duration and Pay
 

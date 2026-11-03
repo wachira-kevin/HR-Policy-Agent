@@ -1,6 +1,9 @@
 # Expense Reimbursement Policy
 
+**Company:** Acme Technologies (fictional)
 **Document ID:** HR-EXP-003
+**Version:** 1.0
+**Owner:** Human Resources
 **Effective Date:** January 1, 2026
 **Applies To:** All employees
 

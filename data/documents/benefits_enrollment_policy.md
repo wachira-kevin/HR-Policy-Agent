@@ -1,6 +1,9 @@
 # Benefits Enrollment Policy
 
+**Company:** Acme Technologies (fictional)
 **Document ID:** HR-BEN-006
+**Version:** 1.0
+**Owner:** Human Resources
 **Effective Date:** January 1, 2026
 **Applies To:** All full-time employees
 
